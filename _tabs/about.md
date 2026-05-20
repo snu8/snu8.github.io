@@ -6,7 +6,7 @@ order: 4
 
 ## $ whoami
 
-Snu8. Focused on Offensive Security | Penetration Testing and Red Teaming.
+Snu8. Focused on Offensive Security · Penetration Testing and Red Teaming.
 
 This blog is where I document the work: writeups, technical notes, tools, and methodology.
 
