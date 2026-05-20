@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Tester Post 🔧"
+date: 2026-05-20 15:55:00
+---
+
 # [Nom de la Machine] — Write-up
 **Plateforme:** HackTheBox / TryHackMe  
 **Difficulté:** Easy / Medium / Hard  
