@@ -4,9 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## whoami
+## $ whoami
 
-Snu8. Focused on Offensive Security — Penetration Testing and Red Teaming.
+Snu8. Focused on Offensive Security | Penetration Testing and Red Teaming.
 
 This blog is where I document the work: writeups, technical notes, tools, and methodology.
 
@@ -14,6 +14,3 @@ This blog is where I document the work: writeups, technical notes, tools, and me
 **Platforms:** HackTheBox · TryHackMe
 
 ---
-
-> The best way to learn is to document everything.
-
